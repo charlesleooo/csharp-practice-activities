@@ -1,0 +1,7 @@
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\bin\Debug\atm-dispenser.exe.config
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\bin\Debug\atm-dispenser.exe
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\bin\Debug\atm-dispenser.pdb
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\obj\Debug\atm-dispenser.csproj.AssemblyReference.cache
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\obj\Debug\atm-dispenser.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\obj\Debug\atm-dispenser.exe
+C:\Users\TEMP\source\repos\atm-dispenser\atm-dispenser\obj\Debug\atm-dispenser.pdb
